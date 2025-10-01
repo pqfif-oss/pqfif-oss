@@ -1,13 +1,13 @@
-title: Open Source Software Collection for PQFIF (Post-Quantum Financial Infrastructure Framework)
+title: Open Source Software and AI Tools Collection for PQFIF (Post-Quantum Financial Infrastructure Framework)
 email: caishu@flomesh.io
 description: >- 
-  pqfif-oss is a collection of open-source projects and AI resources that we have organized, gathered, and created to meet and implement the PQFIF. It aims to provide tools, methodologies, and reference practices for professionals working in the PQFIF field. 
+  OpenSource Software and AI tools for PQFIF. 
 baseurl: "" 
 url: "https://pqfif-oss.ai" 
 
-remote_theme: pages-themes/merlot@v0.2.0
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
-- jekyll-remote-theme 
+- jekyll-remote-theme
 
 github_username: caishu97
 linkedin_username: caishu97
